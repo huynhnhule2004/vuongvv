@@ -1,0 +1,80 @@
+				<div class="portfolio-content tab-content" id="tab4">
+					<div class="isotope">
+						<div class="row">
+							<div class="col-sm-4">
+								<div class="item">
+									<img src="assets/images/portfolio/Logo.png" alt="portfolio image" />
+									<div class="isotope-overlay">
+									</div>
+								</div>
+								<div class="item">
+									<img src="assets/images/about/DARE3.png" alt="portfolio image" />
+									<div class="isotope-overlay">
+									</div>
+								</div>
+								<div class="item">
+									<img src="assets/images/portfolio/z5848061000280_4a698f29e03e447f2b80172dbcfb0a58.jpg"
+										alt="portfolio image" />
+									<div class="isotope-overlay">
+										<!-- <a href="#">
+											ui/ux design
+										</a> -->
+									</div><!-- /.isotope-overlay -->
+								</div><!-- /.item -->
+								<div class="item">
+									<img src="assets/images/about/mypham.png" alt="portfolio image" />
+									<div class="isotope-overlay">
+										<!-- <a href="#">
+											ui/ux design
+										</a> -->
+									</div><!-- /.isotope-overlay -->
+								</div>
+							</div>
+
+							<div class="col-sm-4">
+								<div class="item">
+									<img src="assets/images/portfolio/z5848049669606_65659cfd316112943712de0688dae00d.jpg"
+										alt="portfolio image" />
+									<div class="isotope-overlay">
+										<!-- <a href="#">
+											web design
+										</a> -->
+									</div><!-- /.isotope-overlay -->
+								</div><!-- /.item -->
+								<div class="item">
+									<img src="assets/images/about/MINI PROJECT.png" alt="portfolio image" />
+									<div class="isotope-overlay">
+										<!-- <a href="#">
+											web design
+										</a> -->
+									</div><!-- /.isotope-overlay -->
+								</div>
+							</div>
+
+							<div class="col-sm-4">
+								<div class="item">
+									<!-- <img src="assets/images/portfolio/p4.jpg" alt="portfolio image" /> -->
+									<img src="assets/images/portfolio/anh1.jpg" alt="" class="w-100" id="banner">
+
+								</div>
+								<div class="item">
+									<!-- <img src="assets/images/portfolio/p4.jpg" alt="portfolio image" /> -->
+									<img src="assets/images/about/Next.png" alt="" class="w-100" id="banner">
+
+								</div>
+							</div>
+							<div class="col-sm-4">
+								<div class="item">
+									<img src="assets/images/portfolio/du_an_1.jpg" alt="portfolio image" />
+									<div class="isotope-overlay">
+										<a
+											href="https://drive.google.com/file/d/19rUaidRZRR1MXoJHPS8aD-FREQZIq0Aj/view">
+											Dự án 1
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
